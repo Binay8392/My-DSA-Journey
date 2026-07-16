@@ -13,10 +13,12 @@
 ## Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Binay8392/My-DSA-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/Binay8392/My-DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Binay8392/My-DSA-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/Binay8392/My-DSA-Journey/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Binay8392/My-DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
@@ -31,4 +33,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Binay8392/My-DSA-Journey/tree/master/0242-valid-anagram) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Binay8392/My-DSA-Journey/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
