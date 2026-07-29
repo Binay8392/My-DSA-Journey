@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Binay8392/My-DSA-Journey/tree/master/0242-valid-anagram) |
+| [1021-remove-outermost-parentheses](https://github.com/Binay8392/My-DSA-Journey/tree/master/1021-remove-outermost-parentheses) |
 ## Sorting
 |  |
 | ------- |
@@ -47,4 +48,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Binay8392/My-DSA-Journey/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Binay8392/My-DSA-Journey/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
