@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Binay8392/My-DSA-Journey/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/Binay8392/My-DSA-Journey/tree/master/0050-powx-n) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -52,4 +53,8 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Binay8392/My-DSA-Journey/tree/master/1021-remove-outermost-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Binay8392/My-DSA-Journey/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
