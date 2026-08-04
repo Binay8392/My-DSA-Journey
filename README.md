@@ -57,4 +57,16 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Binay8392/My-DSA-Journey/tree/master/0050-powx-n) |
+## Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Binay8392/My-DSA-Journey/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Binay8392/My-DSA-Journey/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Binay8392/My-DSA-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
