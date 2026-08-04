@@ -64,6 +64,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Binay8392/My-DSA-Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Binay8392/My-DSA-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Binay8392/My-DSA-Journey/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Binay8392/My-DSA-Journey/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Binay8392/My-DSA-Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Binay8392/My-DSA-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Binay8392/My-DSA-Journey/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Binay8392/My-DSA-Journey/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -78,11 +80,13 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Binay8392/My-DSA-Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Binay8392/My-DSA-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Binay8392/My-DSA-Journey/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Binay8392/My-DSA-Journey/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Binay8392/My-DSA-Journey/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Binay8392/My-DSA-Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Binay8392/My-DSA-Journey/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Lifting
 |  |
 | ------- |
