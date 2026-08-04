@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Binay8392/My-DSA-Journey/tree/master/0011-container-with-most-water) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Binay8392/My-DSA-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/Binay8392/My-DSA-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/Binay8392/My-DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Binay8392/My-DSA-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Binay8392/My-DSA-Journey/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Binay8392/My-DSA-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Binay8392/My-DSA-Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Binay8392/My-DSA-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Binay8392/My-DSA-Journey/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -69,6 +71,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Binay8392/My-DSA-Journey/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Binay8392/My-DSA-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Binay8392/My-DSA-Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Binay8392/My-DSA-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Binay8392/My-DSA-Journey/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -77,6 +80,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Binay8392/My-DSA-Journey/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Binay8392/My-DSA-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Binay8392/My-DSA-Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Binay8392/My-DSA-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Binay8392/My-DSA-Journey/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -95,4 +99,8 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Binay8392/My-DSA-Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Binay8392/My-DSA-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
