@@ -7,6 +7,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/Binay8392/My-DSA-Journey/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Binay8392/My-DSA-Journey/tree/master/0050-powx-n) |
+| [1006-clumsy-factorial](https://github.com/Binay8392/My-DSA-Journey/tree/master/1006-clumsy-factorial) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 ## Stack
 |  |
 | ------- |
+| [1006-clumsy-factorial](https://github.com/Binay8392/My-DSA-Journey/tree/master/1006-clumsy-factorial) |
 | [1021-remove-outermost-parentheses](https://github.com/Binay8392/My-DSA-Journey/tree/master/1021-remove-outermost-parentheses) |
 ## Recursion
 |  |
@@ -103,4 +105,8 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Binay8392/My-DSA-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Simulation
+|  |
+| ------- |
+| [1006-clumsy-factorial](https://github.com/Binay8392/My-DSA-Journey/tree/master/1006-clumsy-factorial) |
 <!---LeetCode Topics End-->
