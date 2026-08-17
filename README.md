@@ -20,6 +20,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Binay8392/My-DSA-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/Binay8392/My-DSA-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/Binay8392/My-DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
+| [1207-unique-number-of-occurrences](https://github.com/Binay8392/My-DSA-Journey/tree/master/1207-unique-number-of-occurrences) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Binay8392/My-DSA-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Binay8392/My-DSA-Journey/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Binay8392/My-DSA-Journey/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -29,6 +30,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Binay8392/My-DSA-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/Binay8392/My-DSA-Journey/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Binay8392/My-DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
+| [1207-unique-number-of-occurrences](https://github.com/Binay8392/My-DSA-Journey/tree/master/1207-unique-number-of-occurrences) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Binay8392/My-DSA-Journey/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Binay8392/My-DSA-Journey/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Prefix Sum
