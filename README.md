@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Binay8392/My-DSA-Journey/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Binay8392/My-DSA-Journey/tree/master/0015-3sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Binay8392/My-DSA-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/Binay8392/My-DSA-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/Binay8392/My-DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
@@ -46,6 +47,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Binay8392/My-DSA-Journey/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/Binay8392/My-DSA-Journey/tree/master/0242-valid-anagram) |
 ## Union-Find
 |  |
@@ -55,6 +57,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Binay8392/My-DSA-Journey/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Binay8392/My-DSA-Journey/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
