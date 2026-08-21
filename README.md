@@ -103,6 +103,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Binay8392/My-DSA-Journey/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Binay8392/My-DSA-Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0386-lexicographical-numbers](https://github.com/Binay8392/My-DSA-Journey/tree/master/0386-lexicographical-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Binay8392/My-DSA-Journey/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Lifting
 |  |
@@ -125,4 +126,8 @@
 |  |
 | ------- |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Binay8392/My-DSA-Journey/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Binay8392/My-DSA-Journey/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
