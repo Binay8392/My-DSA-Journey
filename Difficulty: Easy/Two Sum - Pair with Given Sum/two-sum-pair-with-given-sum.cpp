@@ -1,19 +1,14 @@
 class Solution {
   public:
     bool twoSum(vector<int>& arr, int target) {
-        // code here
-        int n=arr.size();
-        int l=0;
-        int r=n-1;
-        
-        sort(arr.begin(),arr.end());
-        while(l<r)
+        unordered_map<int,int>m;
+        for(int i=0;i<arr.size();i++)
         {
-            int sum=arr[l]+arr[r];
-            if(sum==target) return true;
-            else if(sum<target) l++;
-            else r--;
+            int need=target-arr[i];
+            if(m.find(need) !=m.end()) return true;
+            m[arr[i]]=i;
         }
+        
         return false;
     }
 };
