@@ -25,6 +25,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Binay8392/My-DSA-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Binay8392/My-DSA-Journey/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Binay8392/My-DSA-Journey/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/Binay8392/My-DSA-Journey/tree/master/3587-minimum-adjacent-swaps-to-alternate-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Binay8392/My-DSA-Journey/tree/master/0011-container-with-most-water) |
+| [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/Binay8392/My-DSA-Journey/tree/master/3587-minimum-adjacent-swaps-to-alternate-parity) |
 ## Stack
 |  |
 | ------- |
