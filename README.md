@@ -24,6 +24,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Binay8392/My-DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Binay8392/My-DSA-Journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Binay8392/My-DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Binay8392/My-DSA-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Binay8392/My-DSA-Journey/tree/master/1207-unique-number-of-occurrences) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Binay8392/My-DSA-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Binay8392/My-DSA-Journey/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -100,6 +101,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Binay8392/My-DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Binay8392/My-DSA-Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Binay8392/My-DSA-Journey/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Binay8392/My-DSA-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Binay8392/My-DSA-Journey/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
@@ -142,4 +144,8 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Binay8392/My-DSA-Journey/tree/master/0386-lexicographical-numbers) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Binay8392/My-DSA-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
