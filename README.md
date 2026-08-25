@@ -18,6 +18,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Binay8392/My-DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Binay8392/My-DSA-Journey/tree/master/0015-3sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Binay8392/My-DSA-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Binay8392/My-DSA-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/Binay8392/My-DSA-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Binay8392/My-DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
@@ -92,6 +93,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Binay8392/My-DSA-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/Binay8392/My-DSA-Journey/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Binay8392/My-DSA-Journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Binay8392/My-DSA-Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
