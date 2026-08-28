@@ -5,6 +5,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Binay8392/My-DSA-Journey/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Binay8392/My-DSA-Journey/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Binay8392/My-DSA-Journey/tree/master/0050-powx-n) |
 | [1006-clumsy-factorial](https://github.com/Binay8392/My-DSA-Journey/tree/master/1006-clumsy-factorial) |
