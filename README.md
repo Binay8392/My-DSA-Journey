@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/Binay8392/My-DSA-Journey/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Binay8392/My-DSA-Journey/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Binay8392/My-DSA-Journey/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/Binay8392/My-DSA-Journey/tree/master/0509-fibonacci-number) |
 | [1006-clumsy-factorial](https://github.com/Binay8392/My-DSA-Journey/tree/master/1006-clumsy-factorial) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Binay8392/My-DSA-Journey/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Bit Manipulation
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Binay8392/My-DSA-Journey/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/Binay8392/My-DSA-Journey/tree/master/0509-fibonacci-number) |
 ## Tree
 |  |
 | ------- |
@@ -149,4 +151,12 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Binay8392/My-DSA-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Binay8392/My-DSA-Journey/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Binay8392/My-DSA-Journey/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
