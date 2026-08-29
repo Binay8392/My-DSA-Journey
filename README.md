@@ -26,6 +26,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Binay8392/My-DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Binay8392/My-DSA-Journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Binay8392/My-DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Binay8392/My-DSA-Journey/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Binay8392/My-DSA-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Binay8392/My-DSA-Journey/tree/master/1207-unique-number-of-occurrences) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Binay8392/My-DSA-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Binay8392/My-DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Binay8392/My-DSA-Journey/tree/master/0724-find-pivot-index) |
 ## String
 |  |
 | ------- |
