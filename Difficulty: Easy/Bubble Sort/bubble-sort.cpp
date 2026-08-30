@@ -3,14 +3,19 @@ class Solution {
     void bubbleSort(vector<int>& arr) {
         // code here
         
-        for(int i=0;i<arr.size();i++)
+        for(int i=1;i<arr.size();i++)
         {
-            
-            for(int j=i;j<arr.size();j++)
+            for(int f=0;f<arr.size()-i;f++)
             {
-                if(arr[i]>arr[j]) swap(arr[i],arr[j]);
+                
+            
+            if(arr[f]>arr[f+1])
+            {
+                swap(arr[f],arr[f+1]);
+            }
+            
+            
             }
         }
-        return ;
     }
 };
