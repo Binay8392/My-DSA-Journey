@@ -52,6 +52,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Binay8392/My-DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Binay8392/My-DSA-Journey/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Binay8392/My-DSA-Journey/tree/master/0344-reverse-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Binay8392/My-DSA-Journey/tree/master/1021-remove-outermost-parentheses) |
@@ -72,6 +73,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Binay8392/My-DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Binay8392/My-DSA-Journey/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/Binay8392/My-DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Binay8392/My-DSA-Journey/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Binay8392/My-DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 ## Greedy
