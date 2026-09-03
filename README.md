@@ -56,6 +56,7 @@
 | [0242-valid-anagram](https://github.com/Binay8392/My-DSA-Journey/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Binay8392/My-DSA-Journey/tree/master/0344-reverse-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Binay8392/My-DSA-Journey/tree/master/1021-remove-outermost-parentheses) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Binay8392/My-DSA-Journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Binay8392/My-DSA-Journey/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Sorting
 |  |
@@ -86,6 +87,7 @@
 | ------- |
 | [1006-clumsy-factorial](https://github.com/Binay8392/My-DSA-Journey/tree/master/1006-clumsy-factorial) |
 | [1021-remove-outermost-parentheses](https://github.com/Binay8392/My-DSA-Journey/tree/master/1021-remove-outermost-parentheses) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Binay8392/My-DSA-Journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Recursion
 |  |
 | ------- |
@@ -144,6 +146,7 @@
 |  |
 | ------- |
 | [1006-clumsy-factorial](https://github.com/Binay8392/My-DSA-Journey/tree/master/1006-clumsy-factorial) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Binay8392/My-DSA-Journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Binay8392/My-DSA-Journey/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Counting
 |  |
